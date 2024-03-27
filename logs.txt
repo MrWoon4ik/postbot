@@ -1,0 +1,385 @@
+26.03.2024 10:32 | Bot | [INFO] pizda
+26.03.2024 10:32 | Bot | [ERROR] Invalid log level
+26.03.2024 10:33 | Bot | [DEBUG] pizda
+26.03.2024 19:35 | Bot | [INFO] Создание классов и функций..
+26.03.2024 19:35 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 19:36 | Bot | [INFO] Создание классов и функций..
+26.03.2024 19:36 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 19:37 | Bot | [INFO] Создание классов и функций..
+26.03.2024 19:37 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 19:37 | Bot | [INFO] Запуск бота..
+26.03.2024 19:38 | Bot | [INFO] Бот готов к работе
+26.03.2024 19:41 | Bot | [INFO] Создание классов и функций..
+26.03.2024 19:41 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 19:41 | Bot | [INFO] Запуск бота..
+26.03.2024 19:41 | Bot | [INFO] Бот готов к работе
+26.03.2024 19:41 | Bot | [CRITICAL] Бот отключён
+26.03.2024 19:45 | Bot | [INFO] Создание классов и функций..
+26.03.2024 19:45 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 19:45 | Bot | [INFO] Запуск бота..
+26.03.2024 19:45 | Bot | [INFO] Бот готов к работе
+26.03.2024 19:45 | Bot | [INFO] start() от @mrwoon_official
+26.03.2024 19:45 | Bot | [INFO] Попытка повторого запуска: @mrwoon_official
+26.03.2024 19:45 | Bot | [INFO] Обнаружен админ: @mrwoon_official
+26.03.2024 19:46 | Bot | [CRITICAL] Бот отключён
+26.03.2024 19:46 | Bot | [INFO] Создание классов и функций..
+26.03.2024 19:46 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 19:46 | Bot | [INFO] Запуск бота..
+26.03.2024 19:46 | Bot | [INFO] Бот готов к работе
+26.03.2024 19:46 | Bot | [ERROR] Invalid log level
+26.03.2024 19:46 | Bot | [ERROR] Invalid log level
+26.03.2024 19:46 | Bot | [ERROR] Invalid log level
+26.03.2024 19:47 | Bot | [CRITICAL] Бот отключён
+26.03.2024 19:48 | Bot | [INFO] Создание классов и функций..
+26.03.2024 19:48 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 19:48 | Bot | [INFO] Запуск бота..
+26.03.2024 19:48 | Bot | [INFO] Бот готов к работе
+26.03.2024 19:48 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 19:48 | Bot | [WARNING] Попытка повторого запуска: @mrwoon_official
+26.03.2024 19:48 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+26.03.2024 19:51 | Bot | [WARNING] send_post({'name': 'Кот', 'picture': 'AgACAgIAAxkBAAIBPmYDAmYfYxjk3FDWOJLOF6ECrKVyAAIZ1zEboyUYSCsAAbEnb0QhfgEAAwIAA20AAzQE', 'content': 'Это картинка кота', 'button1': ['Кнопка Кота', 'https://cat.com'], 'button2': ['Кнопка кота 2', 'https://cat2.com']}, 1423749884)
+26.03.2024 20:17 | Bot | [CRITICAL] Бот отключён
+26.03.2024 20:17 | Bot | [INFO] Создание классов и функций..
+26.03.2024 20:17 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 20:17 | Bot | [INFO] Запуск бота..
+26.03.2024 20:17 | Bot | [INFO] Бот готов к работе
+26.03.2024 20:17 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 20:17 | Bot | [WARNING] Попытка повторого запуска: @mrwoon_official
+26.03.2024 20:17 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+26.03.2024 20:32 | Bot | [CRITICAL] Бот отключён
+26.03.2024 20:32 | Bot | [INFO] Создание классов и функций..
+26.03.2024 20:32 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 20:32 | Bot | [INFO] Запуск бота..
+26.03.2024 20:32 | Bot | [INFO] Бот готов к работе
+26.03.2024 20:34 | Bot | [CRITICAL] Бот отключён
+26.03.2024 20:34 | Bot | [INFO] Создание классов и функций..
+26.03.2024 20:34 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 20:34 | Bot | [INFO] Запуск бота..
+26.03.2024 20:34 | Bot | [INFO] Бот готов к работе
+26.03.2024 20:34 | Bot | [CRITICAL] Бот отключён
+26.03.2024 20:34 | Bot | [INFO] Создание классов и функций..
+26.03.2024 20:34 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 20:34 | Bot | [INFO] Запуск бота..
+26.03.2024 20:34 | Bot | [INFO] Бот готов к работе
+26.03.2024 20:34 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 20:34 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+26.03.2024 20:34 | Bot | [CRITICAL] Бот отключён
+26.03.2024 20:34 | Bot | [INFO] Создание классов и функций..
+26.03.2024 20:34 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 20:34 | Bot | [INFO] Запуск бота..
+26.03.2024 20:34 | Bot | [INFO] Бот готов к работе
+26.03.2024 20:34 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 20:35 | Bot | [CRITICAL] Бот отключён
+26.03.2024 20:35 | Bot | [INFO] Создание классов и функций..
+26.03.2024 20:35 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 20:35 | Bot | [INFO] Запуск бота..
+26.03.2024 20:35 | Bot | [INFO] Бот готов к работе
+26.03.2024 20:35 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 20:35 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+26.03.2024 20:35 | Bot | [CRITICAL] Бот отключён
+26.03.2024 20:35 | Bot | [INFO] Создание классов и функций..
+26.03.2024 20:35 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 20:35 | Bot | [INFO] Запуск бота..
+26.03.2024 20:35 | Bot | [INFO] Бот готов к работе
+26.03.2024 20:36 | Bot | [CRITICAL] Бот отключён
+26.03.2024 20:36 | Bot | [INFO] Создание классов и функций..
+26.03.2024 20:36 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 20:36 | Bot | [INFO] Запуск бота..
+26.03.2024 20:36 | Bot | [INFO] Бот готов к работе
+26.03.2024 20:36 | Bot | [CRITICAL] Бот отключён
+26.03.2024 20:36 | Bot | [INFO] Создание классов и функций..
+26.03.2024 20:36 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 20:36 | Bot | [INFO] Запуск бота..
+26.03.2024 20:36 | Bot | [INFO] Бот готов к работе
+26.03.2024 20:37 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 20:37 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+26.03.2024 20:37 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 20:37 | Bot | [WARNING] send_post({'name': 'Проверка', 'picture': 'AgACAgIAAxkBAAIBf2YDBHxCmBlvhndY5GoDa9lcrrQZAAJp1zEbpdMYSERvGDAt74wKAQADAgADeQADNAQ', 'content': 'Если вы это читаете - всё работает. Данный пост был отправлен только вам, в целях проверки работы отправки только для определённых пользователей. Пожалуйста, сообщите в ЛС сработало ли это. Спасибо!', 'button1': ['Тестовая кнопка', 'https://animerium.glitch.me'], 'button2': None}, 1423749884)
+26.03.2024 20:37 | Bot | [WARNING] send_post({'name': 'Аниме девочка', 'picture': 'AgACAgIAAxkBAAIBX2YDAw43CTIJkCshK6Xo06gGoKJDAAKD1TEboyUYSF3EY73mBLC1AQADAgADeAADNAQ', 'content': 'Здесь аниме девочка', 'button1': ['Кнопка девочки', 'https://anime.com'], 'button2': None}, 1423749884)
+26.03.2024 20:37 | Bot | [WARNING] send_post({'name': 'Кот', 'picture': 'AgACAgIAAxkBAAIBPmYDAmYfYxjk3FDWOJLOF6ECrKVyAAIZ1zEboyUYSCsAAbEnb0QhfgEAAwIAA20AAzQE', 'content': 'Это картинка кота', 'button1': ['Кнопка Кота', 'https://cat.com'], 'button2': ['Кнопка кота 2', 'https://cat2.com']}, 1423749884)
+26.03.2024 20:37 | Bot | [WARNING] send_post({'name': 'Собака', 'picture': 'AgACAgIAAxkBAAIBSmYDAp5_NchYOsnRKLzgaT6AVIDeAAIx1zEboyUYSKzgOzChMq1hAQADAgADeQADNAQ', 'content': 'Здесь картинка 2 собак', 'button1': ['Кнопка собаки', 'https://dog.com'], 'button2': ['Dog Button 2', 'https://dog2.com']}, 1423749884)
+26.03.2024 20:37 | Bot | [WARNING] Новый пользователь: @mrwoon_official
+26.03.2024 20:37 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+26.03.2024 20:41 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 20:41 | Bot | [WARNING] Попытка повторого запуска: @mrwoon_official
+26.03.2024 20:41 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+26.03.2024 20:49 | Bot | [CRITICAL] Бот отключён
+26.03.2024 20:49 | Bot | [INFO] Создание классов и функций..
+26.03.2024 20:49 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 20:49 | Bot | [INFO] Запуск бота..
+26.03.2024 20:49 | Bot | [INFO] Бот готов к работе
+26.03.2024 20:50 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 20:50 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+26.03.2024 20:50 | Bot | [CRITICAL] Бот отключён
+26.03.2024 20:50 | Bot | [INFO] Создание классов и функций..
+26.03.2024 20:50 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 20:50 | Bot | [INFO] Запуск бота..
+26.03.2024 20:50 | Bot | [INFO] Бот готов к работе
+26.03.2024 20:52 | Bot | [CRITICAL] Бот отключён
+26.03.2024 20:52 | Bot | [INFO] Создание классов и функций..
+26.03.2024 20:52 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 20:52 | Bot | [INFO] Запуск бота..
+26.03.2024 20:52 | Bot | [INFO] Бот готов к работе
+26.03.2024 20:56 | Bot | [CRITICAL] Бот отключён
+26.03.2024 20:56 | Bot | [INFO] Создание классов и функций..
+26.03.2024 20:56 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 20:56 | Bot | [INFO] Запуск бота..
+26.03.2024 20:56 | Bot | [INFO] Бот готов к работе
+26.03.2024 20:56 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 20:56 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+26.03.2024 20:58 | Bot | [CRITICAL] Бот отключён
+26.03.2024 20:58 | Bot | [INFO] Создание классов и функций..
+26.03.2024 20:58 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 20:58 | Bot | [INFO] Запуск бота..
+26.03.2024 20:58 | Bot | [INFO] Бот готов к работе
+26.03.2024 20:59 | Bot | [CRITICAL] Бот отключён
+26.03.2024 20:59 | Bot | [INFO] Создание классов и функций..
+26.03.2024 20:59 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 20:59 | Bot | [INFO] Запуск бота..
+26.03.2024 20:59 | Bot | [INFO] Бот готов к работе
+26.03.2024 20:59 | Bot | [WARNING] send_post({'name': 'Кот', 'picture': 'AgACAgIAAxkBAAIBPmYDAmYfYxjk3FDWOJLOF6ECrKVyAAIZ1zEboyUYSCsAAbEnb0QhfgEAAwIAA20AAzQE', 'content': 'Это картинка кота', 'button1': ['Кнопка Кота', 'https://cat.com'], 'button2': ['Кнопка кота 2', 'https://cat2.com']}, 1423749884)
+26.03.2024 20:59 | Bot | [WARNING] send_post({'name': 'Собака', 'picture': 'AgACAgIAAxkBAAIBSmYDAp5_NchYOsnRKLzgaT6AVIDeAAIx1zEboyUYSKzgOzChMq1hAQADAgADeQADNAQ', 'content': 'Здесь картинка 2 собак', 'button1': ['Кнопка собаки', 'https://dog.com'], 'button2': ['Dog Button 2', 'https://dog2.com']}, 1423749884)
+26.03.2024 20:59 | Bot | [WARNING] send_post({'name': 'Аниме девочка', 'picture': 'AgACAgIAAxkBAAIBX2YDAw43CTIJkCshK6Xo06gGoKJDAAKD1TEboyUYSF3EY73mBLC1AQADAgADeAADNAQ', 'content': 'Здесь аниме девочка', 'button1': ['Кнопка девочки', 'https://anime.com'], 'button2': None}, 1423749884)
+26.03.2024 20:59 | Bot | [WARNING] send_post({'name': 'Проверка', 'picture': 'AgACAgIAAxkBAAIBf2YDBHxCmBlvhndY5GoDa9lcrrQZAAJp1zEbpdMYSERvGDAt74wKAQADAgADeQADNAQ', 'content': 'Если вы это читаете - всё работает. Данный пост был отправлен только вам, в целях проверки работы отправки только для определённых пользователей. Пожалуйста, сообщите в ЛС сработало ли это. Спасибо!', 'button1': ['Тестовая кнопка', 'https://animerium.glitch.me'], 'button2': None}, 1423749884)
+26.03.2024 21:16 | Bot | [CRITICAL] Бот отключён
+26.03.2024 21:16 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:16 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:16 | Bot | [INFO] Запуск бота..
+26.03.2024 21:17 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:17 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:17 | Bot | [INFO] Запуск бота..
+26.03.2024 21:17 | Bot | [INFO] Бот готов к работе
+26.03.2024 21:17 | Bot | [CRITICAL] Бот отключён
+26.03.2024 21:17 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:17 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:17 | Bot | [INFO] Запуск бота..
+26.03.2024 21:17 | Bot | [INFO] Бот готов к работе
+26.03.2024 21:18 | Bot | [CRITICAL] Бот отключён
+26.03.2024 21:18 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:18 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:18 | Bot | [INFO] Запуск бота..
+26.03.2024 21:18 | Bot | [INFO] Бот готов к работе
+26.03.2024 21:18 | Bot | [CRITICAL] Бот отключён
+26.03.2024 21:18 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:18 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:18 | Bot | [INFO] Запуск бота..
+26.03.2024 21:18 | Bot | [INFO] Бот готов к работе
+26.03.2024 21:18 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 21:20 | Bot | [CRITICAL] Бот отключён
+26.03.2024 21:20 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:20 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:20 | Bot | [INFO] Запуск бота..
+26.03.2024 21:20 | Bot | [INFO] Бот готов к работе
+26.03.2024 21:20 | Bot | [CRITICAL] Бот отключён
+26.03.2024 21:20 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:20 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:20 | Bot | [INFO] Запуск бота..
+26.03.2024 21:20 | Bot | [INFO] Бот готов к работе
+26.03.2024 21:20 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 21:20 | Bot | [WARNING] Новый пользователь: @mrwoon_official
+26.03.2024 21:20 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+26.03.2024 21:21 | Bot | [CRITICAL] Бот отключён
+26.03.2024 21:21 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:21 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:21 | Bot | [INFO] Запуск бота..
+26.03.2024 21:21 | Bot | [INFO] Бот готов к работе
+26.03.2024 21:21 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 21:21 | Bot | [WARNING] Новый пользователь: @mrwoon_official
+26.03.2024 21:21 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+26.03.2024 21:22 | Bot | [CRITICAL] Бот отключён
+26.03.2024 21:22 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:22 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:22 | Bot | [INFO] Запуск бота..
+26.03.2024 21:22 | Bot | [INFO] Бот готов к работе
+26.03.2024 21:22 | Bot | [CRITICAL] Бот отключён
+26.03.2024 21:22 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:22 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:22 | Bot | [INFO] Запуск бота..
+26.03.2024 21:22 | Bot | [INFO] Бот готов к работе
+26.03.2024 21:22 | Bot | [CRITICAL] Бот отключён
+26.03.2024 21:22 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:22 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:22 | Bot | [INFO] Запуск бота..
+26.03.2024 21:22 | Bot | [INFO] Бот готов к работе
+26.03.2024 21:22 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 21:22 | Bot | [WARNING] Попытка повторого запуска: @mrwoon_official
+26.03.2024 21:22 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+26.03.2024 21:22 | Bot | [CRITICAL] Бот отключён
+26.03.2024 21:22 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:22 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:22 | Bot | [INFO] Запуск бота..
+26.03.2024 21:22 | Bot | [INFO] Бот готов к работе
+26.03.2024 21:22 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 21:22 | Bot | [WARNING] Новый пользователь: @mrwoon_official
+26.03.2024 21:22 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 21:22 | Bot | [WARNING] Попытка повторого запуска: @mrwoon_official
+26.03.2024 21:22 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+26.03.2024 21:23 | Bot | [CRITICAL] Бот отключён
+26.03.2024 21:23 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:23 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:23 | Bot | [INFO] Запуск бота..
+26.03.2024 21:23 | Bot | [INFO] Бот готов к работе
+26.03.2024 21:23 | Bot | [CRITICAL] Бот отключён
+26.03.2024 21:23 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:23 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:23 | Bot | [INFO] Запуск бота..
+26.03.2024 21:23 | Bot | [INFO] Бот готов к работе
+26.03.2024 21:24 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 21:24 | Bot | [WARNING] Новый пользователь: @mrwoon_official
+26.03.2024 21:24 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 21:24 | Bot | [WARNING] Попытка повторого запуска: @mrwoon_official
+26.03.2024 21:24 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+26.03.2024 21:24 | Bot | [CRITICAL] Бот отключён
+26.03.2024 21:24 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:24 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:24 | Bot | [INFO] Запуск бота..
+26.03.2024 21:24 | Bot | [INFO] Бот готов к работе
+26.03.2024 21:25 | Bot | [CRITICAL] Бот отключён
+26.03.2024 21:25 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:25 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:25 | Bot | [INFO] Запуск бота..
+26.03.2024 21:25 | Bot | [INFO] Бот готов к работе
+26.03.2024 21:25 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 21:25 | Bot | [WARNING] Новый пользователь: @mrwoon_official
+26.03.2024 21:25 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+26.03.2024 21:28 | Bot | [CRITICAL] Бот отключён
+26.03.2024 21:28 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:28 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:28 | Bot | [INFO] Запуск бота..
+26.03.2024 21:28 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:28 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:28 | Bot | [INFO] Запуск бота..
+26.03.2024 21:29 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:29 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:29 | Bot | [INFO] Запуск бота..
+26.03.2024 21:32 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:32 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:32 | Bot | [INFO] Запуск бота..
+26.03.2024 21:34 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:34 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:34 | Bot | [INFO] Запуск бота..
+26.03.2024 21:34 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:34 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:34 | Bot | [INFO] Запуск бота..
+26.03.2024 21:39 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:39 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:39 | Bot | [INFO] Запуск бота..
+26.03.2024 21:39 | Bot | [INFO] Бот готов к работе
+26.03.2024 21:39 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 21:39 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+26.03.2024 21:39 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 21:39 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+26.03.2024 21:39 | Bot | [CRITICAL] Бот отключён
+26.03.2024 21:40 | Bot | [INFO] Создание классов и функций..
+26.03.2024 21:40 | Bot | [INFO] Создание обработчиков команд..
+26.03.2024 21:40 | Bot | [INFO] Запуск бота..
+26.03.2024 21:40 | Bot | [INFO] Бот готов к работе
+26.03.2024 21:40 | Bot | [WARNING] start() от @mrwoon_official
+26.03.2024 21:40 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+26.03.2024 21:40 | Bot | [CRITICAL] Бот отключён
+27.03.2024 11:21 | Bot | [INFO] Создание классов и функций..
+27.03.2024 11:21 | Bot | [INFO] Создание обработчиков команд..
+27.03.2024 11:21 | Bot | [INFO] Запуск бота..
+27.03.2024 11:21 | Bot | [INFO] Создание классов и функций..
+27.03.2024 11:21 | Bot | [INFO] Создание обработчиков команд..
+27.03.2024 11:21 | Bot | [INFO] Запуск бота..
+27.03.2024 11:21 | Bot | [INFO] Бот готов к работе
+27.03.2024 11:21 | Bot | [WARNING] start() от @mrwoon_official
+27.03.2024 11:21 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+27.03.2024 11:22 | Bot | [CRITICAL] Бот отключён
+27.03.2024 11:22 | Bot | [INFO] Создание классов и функций..
+27.03.2024 11:22 | Bot | [INFO] Создание обработчиков команд..
+27.03.2024 11:22 | Bot | [INFO] Запуск бота..
+27.03.2024 11:22 | Bot | [INFO] Бот готов к работе
+27.03.2024 11:23 | Bot | [CRITICAL] Бот отключён
+27.03.2024 11:23 | Bot | [INFO] Создание классов и функций..
+27.03.2024 11:23 | Bot | [INFO] Создание обработчиков команд..
+27.03.2024 11:23 | Bot | [INFO] Запуск бота..
+27.03.2024 11:23 | Bot | [INFO] Бот готов к работе
+27.03.2024 11:23 | Bot | [CRITICAL] Бот отключён
+27.03.2024 11:23 | Bot | [INFO] Создание классов и функций..
+27.03.2024 11:23 | Bot | [INFO] Создание обработчиков команд..
+27.03.2024 11:23 | Bot | [INFO] Запуск бота..
+27.03.2024 11:23 | Bot | [INFO] Бот готов к работе
+27.03.2024 11:23 | Bot | [WARNING] start() от @muqesq
+27.03.2024 11:23 | Bot | [WARNING] Новый пользователь: @muqesq
+27.03.2024 11:23 | Bot | [WARNING] Обнаружен админ: @muqesq
+27.03.2024 11:24 | Bot | [WARNING] start() от @muqesq
+27.03.2024 11:24 | Bot | [WARNING] Попытка повторого запуска: @muqesq
+27.03.2024 11:24 | Bot | [WARNING] Обнаружен админ: @muqesq
+27.03.2024 11:26 | Bot | [WARNING] send_post({'name': 'M1', 'picture': 'AgACAgIAAxkBAAICZmYD5YGK5TyZchXBKGQEcG1V-ev0AAK01DEbwBAQSNo2QHytGtadAQADAgADeQADNAQ', 'content': '123', 'button1': ["'ЗАБИРАЙ", "https://google.com'"], 'button2': ['ЗАБИРАЙ', 'https://google.com']}, 481733241)
+27.03.2024 11:26 | Bot | [WARNING] send_post({'name': 'M1', 'picture': 'AgACAgIAAxkBAAICZmYD5YGK5TyZchXBKGQEcG1V-ev0AAK01DEbwBAQSNo2QHytGtadAQADAgADeQADNAQ', 'content': '123', 'button1': ["'ЗАБИРАЙ", "https://google.com'"], 'button2': ['ЗАБИРАЙ', 'https://google.com']}, 1423749884)
+27.03.2024 11:26 | Bot | [WARNING] send_post({'name': 'M1', 'picture': 'AgACAgIAAxkBAAICZmYD5YGK5TyZchXBKGQEcG1V-ev0AAK01DEbwBAQSNo2QHytGtadAQADAgADeQADNAQ', 'content': '123', 'button1': ["'ЗАБИРАЙ", "https://google.com'"], 'button2': ['ЗАБИРАЙ', 'https://google.com']}, 481733241)
+27.03.2024 11:27 | Bot | [WARNING] send_post({'name': 'M1', 'picture': 'AgACAgIAAxkBAAICZmYD5YGK5TyZchXBKGQEcG1V-ev0AAK01DEbwBAQSNo2QHytGtadAQADAgADeQADNAQ', 'content': '123', 'button1': ["'ЗАБИРАЙ", "https://google.com'"], 'button2': ['ЗАБИРАЙ', 'https://google.com']}, 481733241)
+27.03.2024 11:29 | Bot | [WARNING] start() от @mrwoon_official
+27.03.2024 11:30 | Bot | [WARNING] start() от @mrwoon_official
+27.03.2024 11:30 | Bot | [WARNING] Попытка повторого запуска: @mrwoon_official
+27.03.2024 11:52 | Bot | [CRITICAL] Бот отключён
+27.03.2024 11:52 | Bot | [INFO] Создание классов и функций..
+27.03.2024 11:52 | Bot | [INFO] Создание обработчиков команд..
+27.03.2024 11:52 | Bot | [INFO] Запуск бота..
+27.03.2024 11:53 | Bot | [INFO] Бот готов к работе
+27.03.2024 11:53 | Bot | [WARNING] start() от @mrwoon_official
+27.03.2024 11:53 | Bot | [WARNING] Попытка повторого запуска: @mrwoon_official
+27.03.2024 11:53 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+27.03.2024 11:53 | Bot | [CRITICAL] Бот отключён
+27.03.2024 11:53 | Bot | [INFO] Создание классов и функций..
+27.03.2024 11:53 | Bot | [INFO] Создание обработчиков команд..
+27.03.2024 11:53 | Bot | [INFO] Запуск бота..
+27.03.2024 11:53 | Bot | [INFO] Бот готов к работе
+27.03.2024 11:53 | Bot | [WARNING] start() от @mrwoon_official
+27.03.2024 11:53 | Bot | [WARNING] Попытка повторого запуска: @mrwoon_official
+27.03.2024 11:53 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+27.03.2024 11:54 | Bot | [CRITICAL] Бот отключён
+27.03.2024 11:54 | Bot | [INFO] Создание классов и функций..
+27.03.2024 11:54 | Bot | [INFO] Создание обработчиков команд..
+27.03.2024 11:54 | Bot | [INFO] Запуск бота..
+27.03.2024 11:54 | Bot | [INFO] Бот готов к работе
+27.03.2024 11:54 | Bot | [WARNING] start() от @mrwoon_official
+27.03.2024 11:54 | Bot | [WARNING] Попытка повторого запуска: @mrwoon_official
+27.03.2024 11:54 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+27.03.2024 11:55 | Bot | [CRITICAL] Бот отключён
+27.03.2024 11:55 | Bot | [INFO] Создание классов и функций..
+27.03.2024 11:55 | Bot | [INFO] Создание обработчиков команд..
+27.03.2024 11:55 | Bot | [INFO] Запуск бота..
+27.03.2024 11:55 | Bot | [INFO] Бот готов к работе
+27.03.2024 11:56 | Bot | [CRITICAL] Бот отключён
+27.03.2024 11:56 | Bot | [INFO] Создание классов и функций..
+27.03.2024 11:56 | Bot | [INFO] Создание обработчиков команд..
+27.03.2024 11:56 | Bot | [INFO] Запуск бота..
+27.03.2024 11:56 | Bot | [INFO] Бот готов к работе
+27.03.2024 11:56 | Bot | [WARNING] start() от @mrwoon_official
+27.03.2024 11:56 | Bot | [WARNING] Попытка повторого запуска: @mrwoon_official
+27.03.2024 11:56 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+27.03.2024 11:59 | Bot | [CRITICAL] Бот отключён
+27.03.2024 11:59 | Bot | [INFO] Создание классов и функций..
+27.03.2024 11:59 | Bot | [INFO] Создание обработчиков команд..
+27.03.2024 11:59 | Bot | [INFO] Запуск бота..
+27.03.2024 11:59 | Bot | [INFO] Бот готов к работе
+27.03.2024 11:59 | Bot | [WARNING] start() от @mrwoon_official
+27.03.2024 11:59 | Bot | [WARNING] Попытка повторого запуска: @mrwoon_official
+27.03.2024 11:59 | Bot | [WARNING] Обнаружен админ: @mrwoon_official
+27.03.2024 12:00 | Bot | [WARNING] send_post({'name': 'test', 'picture': 'AgACAgIAAxkBAAIC4GYD7cYZA1G9RIyiekdwlY_CJ8nCAAJh1TEbKn4hSAvbm_dSQphbAQADAgADbQADNAQ', 'content': 'Здесь котик', 'button1': ['Text', 'https://google.com'], 'button2': ['Text2', 'https://google2.com']}, 1423749884)
+27.03.2024 12:01 | Bot | [WARNING] start() от @muqesq
+27.03.2024 12:01 | Bot | [WARNING] Попытка повторого запуска: @muqesq
+27.03.2024 12:01 | Bot | [CRITICAL] Бот отключён
+27.03.2024 12:01 | Bot | [INFO] Создание классов и функций..
+27.03.2024 12:01 | Bot | [INFO] Создание обработчиков команд..
+27.03.2024 12:01 | Bot | [INFO] Запуск бота..
+27.03.2024 12:01 | Bot | [INFO] Бот готов к работе
+27.03.2024 12:01 | Bot | [WARNING] start() от @muqesq
+27.03.2024 12:01 | Bot | [WARNING] Попытка повторого запуска: @muqesq
+27.03.2024 12:01 | Bot | [WARNING] Обнаружен админ: @muqesq
+27.03.2024 12:02 | Bot | [WARNING] send_post({'name': 'test', 'picture': 'AgACAgIAAxkBAAIC4GYD7cYZA1G9RIyiekdwlY_CJ8nCAAJh1TEbKn4hSAvbm_dSQphbAQADAgADbQADNAQ', 'content': 'Здесь котик', 'button1': ['Text', 'https://google.com'], 'button2': ['Text2', 'https://google2.com']}, 481733241)
+27.03.2024 12:03 | Bot | [WARNING] send_post({'name': 'M1', 'picture': 'AgACAgIAAxkBAAICZmYD5YGK5TyZchXBKGQEcG1V-ev0AAK01DEbwBAQSNo2QHytGtadAQADAgADeQADNAQ', 'content': '123', 'button1': ["'ЗАБИРАЙ", "https://google.com'"], 'button2': ['ЗАБИРАЙ', 'https://google.com']}, 481733241)
+27.03.2024 12:08 | Bot | [WARNING] send_post({'name': 'Q1', 'picture': 'AgACAgIAAxkBAAIDMGYD7p1fkT_T0lq3iIusedzZn11uAAKw3DEbTtcYSJ2HN4J0W611AQADAgADeAADNAQ', 'content': '1', 'button1': ['[text', 'https://link.com]\n\n[text', 'https://link.com]'], 'button2': ['Text', 'https://google.com']}, 481733241)
+27.03.2024 12:10 | Bot | [WARNING] send_post({'name': 'N1', 'picture': 'AgACAgIAAxkBAAIDRWYD7_y4y0e4GYBYXDhRv3aob-YFAAK83DEbTtcYSFewr7-qIyBkAQADAgADeAADNAQ', 'content': '123', 'button1': ['Text', 'https://google.com'], 'button2': None}, 481733241)
+27.03.2024 12:12 | Bot | [CRITICAL] Бот отключён
+27.03.2024 12:13 | Bot | [INFO] Создание классов и функций..
+27.03.2024 12:13 | Bot | [INFO] Создание обработчиков команд..
+27.03.2024 12:13 | Bot | [INFO] Запуск бота..
+27.03.2024 12:13 | Bot | [INFO] Бот готов к работе
+27.03.2024 12:14 | Bot | [WARNING] send_post({'name': '1', 'picture': 'AgACAgIAAxkBAAIDXWYD8P_HIYP0yQEAAf1k2aag6j1PhQACytwxG07XGEiW_GhPqBpMzgEAAwIAA3gAAzQE', 'content': '123', 'button1': ['Текст', 'https://google.com'], 'button2': ['text', 'https://google.com']}, 481733241)
+27.03.2024 12:15 | Bot | [WARNING] start() от @muqesq
+27.03.2024 12:15 | Bot | [WARNING] Попытка повторого запуска: @muqesq
+27.03.2024 12:15 | Bot | [WARNING] Обнаружен админ: @muqesq
